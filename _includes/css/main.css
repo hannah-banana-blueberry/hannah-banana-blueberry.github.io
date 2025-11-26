@@ -489,3 +489,18 @@ footer .footer-below {
   max-width: 200px;   /* Pick your size */
   margin: 0 auto;     /* Center it */
 }
+
+
+/* Make project icons evenly spaced */
+/* Make all portfolio images the same size */
+.portfolio-item img {
+  width: 100%;       /* fill container width */
+  height: 250px;     /* choose your thumbnail height */
+  object-fit: cover; /* crop evenly */
+  border-radius: 10px; /* optional aesthetic rounding */
+}
+
+/* Even spacing between items */
+.portfolio-flex-item {
+  margin-bottom: 20px;
+}
