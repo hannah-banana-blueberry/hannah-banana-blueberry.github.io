@@ -504,3 +504,10 @@ footer .footer-below {
 .portfolio-flex-item {
   margin-bottom: 20px;
 }
+
+/* For pokemon img */
+img[src*="poke-img.webp"] {
+  height: 180px;        /* smaller thumbnail */
+  object-fit: contain;  /* fully visible */
+}
+
