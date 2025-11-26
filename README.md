@@ -5,6 +5,7 @@ Hannah's Personal Website
 
 1. Go to img > profile_pics to store your profile picture
 2. Change image location and/or name in _includes > header.html
+3. Control profile picture dimensions in main.css (scroll to the end)
 
 
 ## Change Information on Home Page

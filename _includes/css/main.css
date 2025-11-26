@@ -484,8 +484,8 @@ footer .footer-below {
 }
 
 
-/* For profile picture */
-.profile-img {
-    max-width: 50%;
-    max-height: 50%;
+/* Hannah's profile pic */
+.profile-pic {
+  max-width: 200px;   /* Pick your size */
+  margin: 0 auto;     /* Center it */
 }
