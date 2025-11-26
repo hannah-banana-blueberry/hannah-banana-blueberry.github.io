@@ -506,7 +506,7 @@ footer .footer-below {
 }
 
 /* For pokemon img */
-img[src*="poke-img.webp"] {
+img[src*="poke-img.webp"], img[src*="study-space-png.png"], img[src*="music.webp"] {
   object-fit: contain;
   padding: 10px;           /* center it nicely */
   background-color: #fff;  /* or your pastel */
