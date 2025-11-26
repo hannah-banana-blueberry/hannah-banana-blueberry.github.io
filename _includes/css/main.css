@@ -482,3 +482,10 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+
+/* For profile picture */
+.profile-img {
+    max-width: 50%;
+    max-height: 50%;
+}
