@@ -12,6 +12,17 @@ Hannah's Personal Website
 1. Go to _config.yml
 
 
+## Change Information for Projects
+1. Go to _posts
+
+
+## Change Information for ABOUT page
+
+1. Go to _includes > about.html
+
+
+
+
 
 
 
