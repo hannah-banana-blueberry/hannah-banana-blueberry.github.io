@@ -1,6 +1,15 @@
 Hannah's Personal Website
 ==========================
 
+## Change Profile Picture
+
+1. Go to img > profile_pics to store your profile picture
+2. Change image location and/or name in _includes > header.html
+
+
+## Change Information on Home Page
+
+1. Go to _config.yml
 
 
 
