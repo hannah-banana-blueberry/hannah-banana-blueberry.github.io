@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2025-08-23
 img: music.webp
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: August 2025
+client: Applied Machine Learning Course (CS 441)
 category: Web Development
 description: CS 441 Project
 ---

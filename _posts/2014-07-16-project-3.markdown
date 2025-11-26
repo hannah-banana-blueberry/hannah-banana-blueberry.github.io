@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2025-08-23
 img: study-space-png.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: August 2025
+client: User Interface Design Course (CS 465)
 category: Web Development
 description: CS 465 Study Space App
 ---
