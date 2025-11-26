@@ -26,8 +26,8 @@ disqus_shortname: myshortname
 # Color settings (hex-codes without the leading hash-tag)
 # Sets color theme for page
 color:
-  primary: A8E6CF    # mint
-  secondary: FFDDE1  # soft pink
+  primary: 4F9153    # Light Forest Green (about and main)
+  secondary: 9CC2AF  # soft pink (header, projects, contact)
   accent: D7CFEA     # lavender
   background: F6EBD9 # sand beige
   text: 4A4A4A       # soft charcoal
